@@ -1,0 +1,8 @@
+{
+  "name": "controlmotion",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "resend": "^6.12.4"
+  }
+}
